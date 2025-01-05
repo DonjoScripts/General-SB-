@@ -3,5 +3,5 @@
   local Lobby = workspace.Lobby
   local GloveStands = Lobby.GloveStands
   local RegularPortal = Lobby.Teleport1
-  return Lobby, GloveStands, RegularPortal
+  return workspace.Lobby, workspace.Lobby.GloveStands, workspace.Lobby.Teleport1
 
