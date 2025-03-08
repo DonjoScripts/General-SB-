@@ -122,7 +122,12 @@ return {
     ["Clock"] = CheckChildren("GeneralHit"),
     ["Lawnmower"] = CheckChildren("GeneralHit"),
     ["Snowroller"] = CheckChildren("GeneralHit"),
-    
+    ["Metaverse"] = CheckChildren("GeneralHit"),
+    ["Medusa"] = CheckChildren("GeneralHit"),
+    ["Agro"] = CheckChildren("GeneralHit"),
+    ["Infinity"] = CheckChildren("GeneralHit"),
+    ["Seal"] = CheckChildren("GeneralHit"),
+    ["Mouse"] = CheckChildren("GeneralHit"),
     -----------// Glove Hit Normal Or New Glove \\-----------
 
     ["ZZZZZZZ"] = CheckChildren("ZZZZZZZHit"),
