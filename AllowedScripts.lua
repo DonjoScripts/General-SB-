@@ -1,1 +1,1 @@
-return {"Death v0.9"}
+return {"Scp 096"}
